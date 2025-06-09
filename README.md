@@ -1,5 +1,7 @@
-## Hi! I´m Mateus lins 
+<h1 align="center"> Hello World! </br>I'm Mateus Lins!
+</h1>
 
+## About me 
 - I’m currently studing Computer Science on  CESAR School
 - I’m currently learning Python, JavaScript, HTML, CSS and Arduino
 - Interresed in Data base, Cybersecurity and Back-end
@@ -25,3 +27,7 @@
   
 </div>
 
+## My stats
+<a href="https://github.com/mateuslinsf" title="Mateus´s Profile">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuslinsf&theme=dark&show_icons=true" />
+</a>

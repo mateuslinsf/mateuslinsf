@@ -2,9 +2,9 @@
 </h1>
 
 ## About me 
-- I’m currently studing Computer Science on  CESAR School
+- 🧠I’m currently studing Computer Science on  CESAR School
 - I’m currently learning Python, JavaScript, HTML, CSS and Arduino
-- Interresed in Data base, Cybersecurity and Back-end
+- Interessed in Data base, Cybersecurity and Back-end
   
 ##
 

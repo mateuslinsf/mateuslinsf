@@ -3,7 +3,7 @@
 
 ## About me 
 - 🧠I’m currently studing Computer Science on  CESAR School
-- I’m currently learning Python, JavaScript, C, HTML, CSS and Arduino
+- I’m currently learning C and django.
 - Interessed in Data base, Cybersecurity and Back-end
   
 ##

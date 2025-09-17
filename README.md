@@ -31,7 +31,8 @@
 
 ## My stats
 <a href="https://github.com/maateuslinsf" title="Mateus's Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maateuslinsf&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maateuslinsf&theme=dark&show_icons=true&cache_seconds=86400" />
+
 </a>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">

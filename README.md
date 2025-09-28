@@ -22,9 +22,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 </div>
 
